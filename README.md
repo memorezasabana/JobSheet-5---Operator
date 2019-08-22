@@ -1,6 +1,6 @@
 # JobSheet-5---Operator
 Latihan Soal 2
-https://github.com/memorezasabana/JobSheet-5---Operator/blob/master/2019-08-22.png
+![Alt Text](https://github.com/memorezasabana/JobSheet-5---Operator/blob/master/2019-08-22.png)
 Latihan Soal 3
 ![Alt Text](https://github.com/memorezasabana/JobSheet-5---Operator/blob/master/2019-08-22%20(1).png)
 Latihan Soal 7
